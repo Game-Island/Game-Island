@@ -1,0 +1,4 @@
+if not mixer.music.pause():
+        #     if event.type==pygame.KEYDOWN:
+        #         if event.key==pygame.K_m:
+        #             mixer.music.unpause()
